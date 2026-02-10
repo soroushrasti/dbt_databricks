@@ -1,2 +1,2 @@
 select *
-from db_project_catalog.landing.orders
+from dbt_project_catalog.landing.orders
