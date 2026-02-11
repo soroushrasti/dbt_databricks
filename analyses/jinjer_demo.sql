@@ -29,3 +29,6 @@ from table
 {% for col in cols%}
 {{col}}
 {%endfor%}
+
+
+{{current_timestamp()}}
